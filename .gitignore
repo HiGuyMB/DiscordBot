@@ -1,0 +1,7 @@
+test.php
+composer.lock
+/vendor
+/discord
+.editorconfig
+.idea
+.DS_Store
